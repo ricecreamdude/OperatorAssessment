@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\OperatorAssessment\bin\Debug\netcoreapp3.1\OperatorAssessment.exe
+C:\Users\Admin\source\repos\OperatorAssessment\bin\Debug\netcoreapp3.1\OperatorAssessment.deps.json
+C:\Users\Admin\source\repos\OperatorAssessment\bin\Debug\netcoreapp3.1\OperatorAssessment.runtimeconfig.json
+C:\Users\Admin\source\repos\OperatorAssessment\bin\Debug\netcoreapp3.1\OperatorAssessment.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\OperatorAssessment\bin\Debug\netcoreapp3.1\OperatorAssessment.dll
+C:\Users\Admin\source\repos\OperatorAssessment\bin\Debug\netcoreapp3.1\OperatorAssessment.pdb
+C:\Users\Admin\source\repos\OperatorAssessment\obj\Debug\netcoreapp3.1\OperatorAssessment.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\OperatorAssessment\obj\Debug\netcoreapp3.1\OperatorAssessment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OperatorAssessment\obj\Debug\netcoreapp3.1\OperatorAssessment.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OperatorAssessment\obj\Debug\netcoreapp3.1\OperatorAssessment.AssemblyInfo.cs
+C:\Users\Admin\source\repos\OperatorAssessment\obj\Debug\netcoreapp3.1\OperatorAssessment.dll
+C:\Users\Admin\source\repos\OperatorAssessment\obj\Debug\netcoreapp3.1\OperatorAssessment.pdb
+C:\Users\Admin\source\repos\OperatorAssessment\obj\Debug\netcoreapp3.1\OperatorAssessment.genruntimeconfig.cache
